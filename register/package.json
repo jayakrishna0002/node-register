@@ -1,0 +1,12 @@
+{
+  "name": "login-registration-app",
+  "version": "1.0.0",
+  "description": "A simple login and registration system using Node.js and JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["node", "login", "registration", "json"],
+  "author": "Your Name",
+  "license": "ISC"
+}
